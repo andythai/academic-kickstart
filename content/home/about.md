@@ -10,31 +10,40 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+	"Computer Graphics",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. Computer Science"
+  institution = "University of California, Irvine (UCI)"
+  year = "in-progress"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.S. Mathematics-Computer Science"
+  institution = "University of California, San Diego (UCSD)"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. Cognitive Science with Specialization in Human-Computer Interaction"
+  institution = "University of California, San Diego (UCSD)"
+  year = 2018
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a **Ph.D. student at UC Irvine studying Computer Science**, supervised by [Professor Gopi Meenakshisundaram](https://www.ics.uci.edu/~gopi/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests include computer vision, computer animation, and the application of machine learning techniques to problems in computer graphics. 
+
+As a UCSD undergraduate, I have previously worked on studies relating to social robotics, animal-robot interaction, and pro-social reciprocity in rodents within [Professor Andrea Chiba's](https://medschool.ucsd.edu/education/neurograd/faculty/Pages/andrea-chiba.aspx) laboratory. 
+
+## Curriculum Vitae
+
+My resume and CV can be found at the following links:
+
+- [CV](files/cv.pdf)  
+- [Resume](files/resume.pdf)  
